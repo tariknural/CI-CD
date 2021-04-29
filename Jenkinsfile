@@ -1,4 +1,4 @@
-test 
+test  
 pipeline {
 	agent any
 	stage('build'){
